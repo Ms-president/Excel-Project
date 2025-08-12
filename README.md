@@ -14,7 +14,6 @@ The primary goal of this project was to analyze customer demographics and purcha
 - **pivot table.csv:** A sample of the pivot table outputs used to generate the dashboard charts.
   
 - **Excel Project.xlsx:** The final Excel workbook containing all the data, pivot tables, and the interactive dashboard.
-- All embeded in one file (Excel project.xlsx)
 
 ## 🛠️ Data Cleaning Process
 The cleaning process was done in the working sheet and included:
@@ -56,4 +55,4 @@ A pivot table was created to:
 The analysis revealed several interesting insights, including:
 - A noticeable correlation between Commute Distance and bike purchasing behavior, with a higher number of buyers in the "0-1 Miles" range.
 - The Middle Age demographic group showed the highest rate of bike purchases.
-- An exploration of income versus gender showed different purchasing patterns for male and female buyers.e
+- An exploration of income versus gender showed different purchasing patterns for male and female buyers.
